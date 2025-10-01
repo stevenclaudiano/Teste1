@@ -7,6 +7,6 @@ func somar(teste string, n1 int, n2 int) (int, string) {
 }
 
 func main() {
-	nome, soma1 := somar("Steven", 10, 10)
+	nome, soma1 := somar("Steven", 40, 10)
 	fmt.Println(nome, soma1)
 }
